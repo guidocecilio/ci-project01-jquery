@@ -1,0 +1,210 @@
+
+.navbar-custom {
+	background-color: transparent;
+	border-color: #95c7db;
+}
+.navbar-custom .navbar-nav>li>a {
+    color: #195084;
+    font-size: 20px;
+}
+
+ul {
+	font-size: larger;
+	font-weight: bold;
+
+}
+
+.jumbotron-custom {
+	background-color: #195084!important;
+	color:#ffc53e!important;
+}
+.jumbotron-custom img{
+	display: block;
+	margin-left: 200px;
+}
+
+.jumbotron-custom button{
+	align-self: middle;
+}
+
+.footer {padding-top: 5px;
+            background-color: transparent;
+            text-align: center;
+            height: 100px;
+            color: #195084;
+            border-radius: 5px;
+
+}
+
+.panel {
+	background-color: #0f6846!important;
+
+}
+
+.panel-default>.panel-heading{
+	background-color: #990404!important;
+	color: #f8fce7!important;
+}
+
+ body{
+         font-family: 'Ultra'!important;
+         font-size: 16px!important;
+         color: #f8fce7!important;
+         background-color: #f8fce7!important;
+      }
+
+      h1{
+      	color:#a53931;
+      	font-weight: bold;
+
+      }
+         #container{
+            width: 450px;
+            margin: 20px;
+            align-self:center; 
+         }
+
+         #box{
+         	background-color: #0f6846;
+         	border-radius: 5px;
+         }
+         #input_types{
+             background-color:#339999;
+         }
+         .submit{
+            margin-top: 15px;
+            margin-bottom: 10px;
+            align-self: right;
+            background-color: #EFD219;
+            width: 100px;
+         }
+         .label{
+            display: inline-block;
+            margin-left: 75px;
+            float: left;
+            clear: center;
+            text-align: left;
+            width: 1000px;
+            margin-top: 5px;
+            color: #EFD219;
+            font-size: 30px;
+         }
+         legend{
+            font-size: 100px;
+            background-color: #339999;
+            border-radius: 5px;
+            border: 1px solid #999;
+            padding: 4px 15px;
+         }
+            
+         label.field{
+            display: block;
+            text-align: right;
+            width: 100px;
+            float: left;
+         }
+         input{
+            display: inline-block;
+            margin-left: 0px;
+            width: 100px;
+            border-radius: 5px;
+            padding: 6px 8px; 
+            margin-top: 6px;   
+         }
+         .field{
+            padding: 6px 8px;
+         }
+         #currency{
+             width: 220px;
+             border-radius: 5px;
+             padding: 6px 8px;
+         }
+         fieldset{
+            width: 400px;
+            border: 1px solid #999;
+            border-radius: 20px;
+            clear: both;
+            padding: 20px;
+            margin-bottom: 100px;
+            background-color:rgba(129, 187, 201,.2);
+         }
+         <style type="text/css">
+      body{
+         font-family: 'Ultra';
+      }
+
+      form{
+        width: 350px;
+      }
+
+         #container{
+            width: 500px;
+            margin: 20px;
+         }
+
+         #input_types{
+             background-color:#0f6846;
+             border-radius: 5px;
+             margin-bottom: 10px;
+             width: 500px;
+             text-align: center;
+         }
+         .submit{
+            margin-top: 15px;
+            margin-bottom: 10px;
+            align-self: center;
+            background-color: #EFD219;
+            width: 100px;
+         }
+         .label{
+            display: inline-block;
+            margin-left: 150px;
+            float: center;
+            clear: center;
+            text-align: center;
+            width: 1000px;
+            margin-top: 10px;
+            color: #EFD219;
+            font-size: 30px;
+         }
+         legend{
+            font-size: 100px;
+            background-color: #339999;
+            border-radius: 5px;
+            border: 1px solid #999;
+            padding: 4px 15px;
+         }
+            
+         label.field{
+            display: block;
+            text-align: right;
+            width: 100px;
+            float: center;
+         }
+         input{
+            display: inline-block;
+            margin-left: 70px;
+            margin-right: 5px;
+            width: 90px;
+            border-radius: 5px;
+            padding: 6px 8px; 
+            margin-top: 6px;   
+         }
+         .field{
+            padding: 6px 8px;
+         }
+         #currency{
+             width: 220px;
+             border-radius: 5px;
+             padding: 6px 8px;
+         }
+         fieldset{
+            width: 450px;
+            border: 1px solid #999;
+            border-radius: 20px;
+            clear: both;
+            padding: 20px;
+            margin-bottom: 100px;
+            background-color:rgba(129, 187, 201,.2);
+         }
+     </style>
